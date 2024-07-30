@@ -2,19 +2,11 @@
 
 ## About Us
 
-The Citizen Project is a community-driven organization dedicated to improving the lives of residents on Roosevelt Island, New York. Our mission is to foster collaboration between citizens, businesses, and city authorities to create innovative solutions to urban challenges, with a focus on enhancing economic and environmental outcomes.
+The Citizen Project is a community-driven organization dedicated to improving the lives of residents on Roosevelt Island in New York City. Our mission is to foster collaboration between citizens, businesses, and city authorities to create innovative solutions to urban challenges, with a focus on enhancing economic and environmental outcomes.
 
 ## Our Vision
 
 We envision a more equitable and cohesive community on Roosevelt Island, where residents actively participate in shaping their urban environment and quality of life.
-
-## Key Objectives
-
-- **Community Collaboration**: Facilitate partnerships between various stakeholders to address local issues effectively.
-- **Urban Innovation**: Develop and implement creative solutions to improve the island's infrastructure and services.
-- **Economic Growth**: Support initiatives that boost local businesses and create job opportunities for residents.
-- **Environmental Sustainability**: Promote eco-friendly practices and projects to preserve the island's natural beauty.
-- **Social Equity**: Ensure that all residents have equal access to resources and opportunities for growth.
 
 ## Get Involved
 
