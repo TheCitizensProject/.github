@@ -20,7 +20,7 @@ We envision a more equitable and cohesive community on Roosevelt Island, where r
 
 We welcome contributions from individuals and organizations who share our vision for a better Roosevelt Island. Here are some ways you can participate:
 
-- **Volunteer**: Join our team of dedicated volunteers working on various community projects.
+- **Volunteer**: Join our team of dedicated volunteers working on various technical projects.
 - **Donate**: Support our initiatives through financial contributions.
 - **Collaborate**: Partner with us on projects that align with our mission.
 - **Share Ideas**: Submit your suggestions for improving our community.
